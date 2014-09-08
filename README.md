@@ -10,8 +10,9 @@
 
 ##インストール方法  
 ↓↓↓インストールのコマンドはこれです。↓↓↓  
+```コマンド
 $ sudo apt-get install screen
-
+```
 ※ubuntuのバージョンが古い場合は、下記のようなエラーが表示されます。
 
 ＄ sudo apt-get install screen  
