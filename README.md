@@ -8,17 +8,17 @@
 
 #screenの導入
 
-##インストール方法
-↓↓↓インストールのコマンドはこれです。↓↓↓
+##インストール方法  
+↓↓↓インストールのコマンドはこれです。↓↓↓  
 $ sudo apt-get install screen
 
 ※ubuntuのバージョンが古い場合は、下記のようなエラーが表示されます。
 
-＄ sudo apt-get install screen
-…　中略　…
-Err http://jp.archive.ubuntu.com /~
-  404  Not Found
-…
+＄ sudo apt-get install screen  
+…　中略　…  
+Err http://jp.archive.ubuntu.com /~  
+  404  Not Found  
+…  
 
 サポート期間が終了したバージョンのUbuntuは
 http://old-releases.ubuntu.com
