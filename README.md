@@ -6,7 +6,7 @@
 ##https://enigmatic-bastion-9064.herokuapp.com/
 
 
-#screenの導入 担当者：タバ
+#screenの導入 ##担当者：タバ
 
 ##インストール方法  
 ↓↓↓インストールのコマンドはこれです。↓↓↓  
