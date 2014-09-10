@@ -2,7 +2,7 @@
 ##sawamura
 ##taba
 
-#担当者：ikki,yamauti
+#担当者：安村、山内
 ##heroku url
 https://enigmatic-bastion-9064.herokuapp.com/
 
