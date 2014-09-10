@@ -2,8 +2,9 @@
 ##sawamura
 ##taba
 
-#heroku url
-##https://enigmatic-bastion-9064.herokuapp.com/
+#担当者：ikki,yamauti
+##heroku url
+https://enigmatic-bastion-9064.herokuapp.com/
 
 
 #screenの導入 
