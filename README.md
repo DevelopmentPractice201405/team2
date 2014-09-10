@@ -3,7 +3,7 @@
 ##taba
 
 #担当者：安村、山内
-##heroku url
+herokuURL
 https://enigmatic-bastion-9064.herokuapp.com/
 
 
